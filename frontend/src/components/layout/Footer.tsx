@@ -122,7 +122,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="text-sm text-amber-500 font-medium mb-1">Email</p>
-                  <a href="mailto:contact@starnexx.com" className="text-gray-700 hover:text-amber-600 transition-colors">
+                  <a href="mailto:contact@starnexx.in" className="text-gray-700 hover:text-amber-600 transition-colors">
                     contact@starnexx.in
                   </a>
                 </div>
@@ -133,7 +133,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="text-sm text-amber-500 font-medium mb-1">Phone</p>
-                  <a href="tel:+15551234567" className="text-gray-700 hover:text-amber-600 transition-colors">
+                  <a href="tel:+91 8317864154" className="text-gray-700 hover:text-amber-600 transition-colors">
                     +91 8317864154
                   </a>
                 </div>

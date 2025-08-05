@@ -8,43 +8,43 @@ export const shortformVideos: ShortformVideoProps[] = [
   },
   {
     videoUrl: '/shortformvideos/viralRealEstate2.mp4',
-    originalSource: 'https://www.instagram.com/reel/DlvHCE2BGB1/'
+    originalSource: ''
   },
   {
     videoUrl: '/shortformvideos/viral-design-edit-3.mp4',
-    originalSource: 'https://www.instagram.com/reel/DJErGiLxMgn/'
+    originalSource: 'https://www.instagram.com/saptarshiux'
   },
   {
     videoUrl: '/shortformvideos/viral-scam-edit-4.mp4',
-    originalSource: 'https://www.instagram.com/reel/DFsoXtNMPH_/'
+    originalSource: ''
   },
   {
     videoUrl: '/shortformvideos/viral-flutterflow-faceless-cashcow-edit-5.mp4',
-    originalSource: 'https://www.instagram.com/reel/DFScfrjlq1h/'
+    originalSource: ''
   },
   {
     videoUrl: '/shortformvideos/viral-cruise-faceless-cashcow-edit-6 (1).mp4',
-    originalSource: 'https://www.instagram.com/p/DFsTWvVlA8r/'
+    originalSource: ''
   },
   {
     videoUrl: '/shortformvideos/viral-Bank-RBI-reel-7.mp4',
-    originalSource: 'https://www.instagram.com/reel/DJErGiLxMgn/'
+    originalSource: 'https://www.instagram.com/reel/DIyZDDGPt-U/'
   },
   {
     videoUrl: '/shortformvideos/viral-ecommerce-reel-8.mp4',
-    originalSource: 'https://www.instagram.com/reel/DFsoXtNMPH_/'
+    originalSource: 'https://www.instagram.com/reel/DIvHCE2BGB1/'
   },
   {
     videoUrl: '/shortformvideos/viral-astrology-numerology-reel-9.mp4',
-    originalSource: 'https://www.instagram.com/reel/DFScfrjlq1h/'
+    originalSource: 'https://www.instagram.com/reel/DFsoXtNMPH_/'
   },
   {
     videoUrl: '/shortformvideos/viral-astrology-numerology-reel-10.mp4',
-    originalSource: 'https://www.instagram.com/p/DFsTWvVlA8r/'
+    originalSource: 'https://www.instagram.com/reel/DFScfrjIg1h/'
   },
   {
     videoUrl: '/shortformvideos/viral-prism-music-metal-11.mp4',
-    originalSource: 'https://www.instagram.com/p/DFP9zekB9qw/'
+    originalSource: 'https://www.instagram.com/prismschoolofmusic/'
   },
   {
     videoUrl: '/shortformvideos/viral-instagram-followers-12.mp4',
@@ -60,6 +60,18 @@ export const shortformVideos: ShortformVideoProps[] = [
   },
   {
     videoUrl: '/shortformvideos/viral-lifestyle-edit-15.mp4',
-    originalSource: 'https://www.instagram.com/p/DFsTWvVlA8r/'
+    originalSource: ''
+  },
+  {
+    videoUrl: '/shortformvideos/NIKEtalkingheadviral.mp4',
+    originalSource: 'https://www.youtube.com/shorts/m0JwqdLwBU8'
+  },
+  {
+    videoUrl: '/shortformvideos/indianweddingsviral.mp4',
+    originalSource: 'https://www.instagram.com/prettymuchfinance'
+  },
+  {
+    videoUrl: '/shortformvideos/realestateeditviral.mp4',
+    originalSource: 'https://www.instagram.com/samsharmarealty_'
   },
 ]; 

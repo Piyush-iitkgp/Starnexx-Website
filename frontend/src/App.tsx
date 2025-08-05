@@ -10,6 +10,7 @@ import Booking from "@/pages/Booking";
 import PrivacyPolicy from "@/pages/PrivacyPolicy";
 import TermsOfService from "@/pages/TermsOfService";
 import Layout from "@/components/layout/Layout";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 export default function App() {
   return (
@@ -25,6 +26,7 @@ export default function App() {
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/terms-of-service" element={<TermsOfService />} />
       </Routes>
+      <WhatsAppButton />
     </Layout>
   );
 }
