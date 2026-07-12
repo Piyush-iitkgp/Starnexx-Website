@@ -9,7 +9,7 @@ export const longformVideos: LongformVideoProps[] = [
     youtubeUrl: 'https://www.youtube.com/watch?v=idNQZVIUT3w'
   },
   {
-    youtubeUrl: 'https://youtu.be/RUUwFktOMVY?si=wuBKgG0ugSIKhCaR'
+    youtubeUrl: 'https://youtu.be/l6VnzEGVo18?si=tKZAhLwnYj4nuyDl'
   },
   {
     youtubeUrl: 'https://www.youtube.com/watch?v=yI0R0xHSSz0'
